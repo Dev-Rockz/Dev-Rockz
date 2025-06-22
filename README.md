@@ -42,7 +42,7 @@
 <h3 align="center">🧑‍🏫 Giving Back</h3>
 
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/collabed-af286.appspot.com/o/IMG_20250410_101321.jpg?alt=media&token=51fe639f-c53a-4167-82b6-02f13c624396" alt="Teaching Flutter" style="max-width: 100%; height: auto; border-radius: 12px;" />
+  <img src="[https://firebasestorage.googleapis.com/v0/b/collabed-af286.appspot.com/o/IMG_20250410_101321.jpg?alt=media&token=51fe639f-c53a-4167-82b6-02f13c624396](https://firebasestorage.googleapis.com/v0/b/collabed-af286.appspot.com/o/long.jpg?alt=media&token=5c3b6972-c0b7-459a-bb93-f0c2d8530517)" alt="Teaching Flutter" style="max-width: 100%; height: auto; border-radius: 12px;" />
 </p>
 
 <p align="center">
