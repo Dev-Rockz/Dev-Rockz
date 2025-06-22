@@ -3,13 +3,13 @@
 <h3 align="center">Mobile Developer • Backend Enthusiast • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Mobile+Developer+with+Flutter;Supabase+%2B+MySQL+Database;Backend+Dev+with+Node.js;Exploring+Web+with+React.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Mobile+Developer+with+Flutter;Supabase+%2B+MySQL+Database+Ninja;Backend+Dev+with+Node.js;Exploring+Web+with+React.js" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 <h3 align="center">🧑‍🏫 Giving Back</h3>
 
 <p align="center">
-  <img src="[https://firebasestorage.googleapis.com/v0/b/collabed-af286.appspot.com/o/IMG_20250410_101321.jpg?alt=media&token=51fe639f-c53a-4167-82b6-02f13c624396](https://firebasestorage.googleapis.com/v0/b/collabed-af286.appspot.com/o/long.jpg?alt=media&token=5c3b6972-c0b7-459a-bb93-f0c2d8530517)" alt="Teaching Flutter" style="max-width: 100%; height: auto; border-radius: 12px;" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/collabed-af286.appspot.com/o/long.jpg?alt=media&token=5c3b6972-c0b7-459a-bb93-f0c2d8530517" alt="Teaching Flutter" style="max-width: 100%; height: auto; border-radius: 12px;" />
 </p>
 
 <p align="center">
