@@ -3,7 +3,7 @@
 <h3 align="center">Mobile Developer • Backend Enthusiast • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Mobile+Developer+with+Flutter;Supabase+%2B+MySQL+Database+Ninja;Backend+Dev+with+Node.js;Exploring+Web+with+React.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Mobile+Developer+with+Flutter;Supabase+%2B+MySQL+Database;Backend+Dev+with+Node.js;Exploring+Web+with+React.js" />
 </p>
 
 ---
@@ -63,8 +63,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Rockz&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Rockz&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Rockz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Rockz&theme=react&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rockz&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Rockz&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="48%"/>
 </div>
 
 ---
@@ -79,7 +81,8 @@
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rocky-pabalate-205271345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/rocky.m.pabalate"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
